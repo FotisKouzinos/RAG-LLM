@@ -14,7 +14,7 @@ Large Language Models are powerful tools capable of performing various natural l
 
 ## Installation
 
-To utilize the RAG-LLM framework, clone this repository and run the bellow command:
+To utilize the RAG-LLM framework, clone this repository, enter the set_up folder, add a . infront of the env file and run the bellow command:
 
 ```bash
 docker compose up
